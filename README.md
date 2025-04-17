@@ -6,7 +6,7 @@ A powerful web application providing secure client-side text encryption and decr
 
 ## 
 
-https://projectcodexa-craftedcodex.vercel.app/
+https://projectcodexa-craftedcodex.pages.dev/
 
 ##
 
@@ -129,7 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 **Dhrrishit Deka**
-- **Website**: https://craftedcodex.onrender.com/
+- **Website**: https://craftedcodex.pages.dev/
 - **Email**: dhrrishit@gmail.com
 - **GitHub**: https://github.com/dhrrishit
 - **LinkedIn**: https://www.linkedin.com/in/dhrrishitdeka/
